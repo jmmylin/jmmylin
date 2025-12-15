@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Network and Automation Journey:</h2>
 
-- [<b>Ansible</b>](https://github/jmmylin/Ansible)
+- [<b>Ansible</b>](https://github.com/jmmylin/Ansible/blob/main/README.md)
 - <b>Python</b>
 - <b>Netmiko</b>
 
